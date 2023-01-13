@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+.Heading {
+  background-color: black;
+  color: orange;
+}
+.SubTitle {
+  background-color: orange;
+  color: yellow;
+}
+.List {
+  list-style-type: circle;
+  background-color: burlywood;
+  color: red;
+}
+
